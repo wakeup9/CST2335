@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hello_message">안녕!</string>
+    <string name="ButtonText">나는 버튼이야</string>
+    <string name="title_activity_login">로그인</string>
+    <string name="login_message">로그인</string>
+    <string name="login_hint">로그인 이메일</string>
+    <string name="password_message">패스워드</string>
+    <string name="switch_name">스위치</string>
+    <string name="button_name1">버튼 1</string>
+    <string name="button_name2">버튼 2</string>
+</resources>
