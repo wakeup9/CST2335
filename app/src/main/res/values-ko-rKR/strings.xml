@@ -10,4 +10,11 @@
     <string name="switch_name">스위치</string>
     <string name="button_name1">버튼 1</string>
     <string name="button_name2">버튼 2</string>
+    <string name="login_bt">로그인</string>
+
+    <string name="dialog_message">종료를 원하십니까?</string>
+    <string name="dialog_title">확인</string>
+    <string name="ok">예</string>
+    <string name="cancel">취소</string>
+
 </resources>

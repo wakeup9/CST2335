@@ -9,5 +9,11 @@
     <string name="switch_name">Enable Something</string>
     <string name="button_name1">Button 1</string>
     <string name="button_name2">Button 2</string>
+    <string name="login_bt">login</string>
+
+    <string name="dialog_message">Do you want to exit?</string>
+    <string name="dialog_title">Confirm</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
 
 </resources>
